@@ -28,6 +28,7 @@ const PROXY_CONFIG = {
   enableWhiteList: true,
   whiteListUrls: [
     "https://github.com/217heidai/*",
+    "https://raw.githubusercontent.com/217heidai/*",
     "https://api.telegram.org/*",
     "https://prod.ave-api.com/*",
     "https://www.binance.com/api/*",
